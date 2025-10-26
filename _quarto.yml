@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Fødseldagshilsen"
+  site-url: https://tillykkemeddagen.com   # change later to your real domain
+  navbar:
+    left:
+      - text: "Hej"
+        href: index.qmd#about
+      - text: "Med"
+        href: index.qmd#mypub
+      - text: "Dig"
+        href: index.qmd#contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

@@ -1,0 +1,26 @@
+---
+title: "Tillykke med fødseldagen Anette!"
+format:
+  html:
+    code-fold: false
+    bibliography: pubs.bib
+    csl: https://www.zotero.org/styles/vancouver
+nocite: |
+  @*
+---
+
+## Hej Anette  {#about}
+
+## Tillykke med fødseldagen!
+
+## Håber du bliver fejret godt :)
+
+### 
+
+#### [Klik her for sang](https://www.youtube.com/watch?v=hmeEZSRUWLI)
+
+![](images/bird.gif)
+
+(Ps du må sige til hvis jeg skal fjerne hjemmesiden)
+
+#### 
