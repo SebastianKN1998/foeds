@@ -20,7 +20,7 @@ nocite: |
 # Mad starter 18:30
 
 # Receptiom 
-![](images/reception.jpg){.column-page width=100%} 
+![](images/recption.jpg){.column-page width=100%} 
 
 ## Menu 
 ![](images/menu.jpg){.column-page width=100%}
