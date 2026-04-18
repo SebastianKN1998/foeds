@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Anna og Sebastians Bryllup"
+  title: "Anna og Sebastian's Bryllup"
   site-url: https://tillykkemeddagen.com   # change later to your real domain
   navbar:
     left:
