@@ -1,5 +1,5 @@
 ---
-title: "Tillykke med fødseldagen Anette!"
+title: "Anna og Sebastians Bryllup info side"
 format:
   html:
     code-fold: false
@@ -9,18 +9,19 @@ nocite: |
   @*
 ---
 
-## Hej Anette  {#about}
+## Her finder I information og menu og ønskeliste  {#about}
 
-## Tillykke med fødseldagen!
+## Vi glæder os til at se jer :) !
 
-## Håber du bliver fejret godt :)
 
-### 
+#### [Link til ønskeskyen](https://onskeskyen.dk/da/wishlists/bCnSuEp8VKhbzO9e?sharedBy=eZn1N6dxouhr237A&utm_source=shortlink&utm_id=ep266w)
 
-#### [Klik her for sang](https://www.youtube.com/watch?v=hmeEZSRUWLI)
+![](images/Menu.pdf)
 
-![](images/bird.gif)
+Hvis nogen ønsker at holde en tale, eller andet så kontakt Kasper på email:
+kasah1998@gmail.com
+Senest 25/5.
 
-(Ps du må sige til hvis jeg skal fjerne hjemmesiden)
+
 
 #### 
