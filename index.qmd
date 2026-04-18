@@ -19,13 +19,13 @@ nocite: |
 
 # Mad starter 18:30
 
-# Receptiom 
+# Reception
 ![](images/recption.jpg){.column-page width=100%} 
 
 ## Menu 
 ![](images/menu.jpg){.column-page width=100%}
 
-Hvis billede ikke viker download:
+Hvis billeder ikke viker download:
 
 [Menu (PDF)](images/Menu.pdf){target="_blank"} 
 
