@@ -3,15 +3,15 @@ project:
   output-dir: _site
 
 website:
-  title: "Fødseldagshilsen"
+  title: "Anna og Sebastians bryllup"
   site-url: https://tillykkemeddagen.com   # change later to your real domain
   navbar:
     left:
-      - text: "Hej"
+      - text: "Menu"
         href: index.qmd#about
-      - text: "Med"
+      - text: "Ønskeliste"
         href: index.qmd#mypub
-      - text: "Dig"
+      - text: "Toast master"
         href: index.qmd#contact
 
 format:
