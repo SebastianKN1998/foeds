@@ -17,14 +17,14 @@ nocite: |
 #### [Link til ønskeskyen](https://onskeskyen.dk/da/wishlists/bCnSuEp8VKhbzO9e?sharedBy=eZn1N6dxouhr237A&utm_source=shortlink&utm_id=ep266w)
 
 ## Menu 
-![](images/Menu.pdf){width=100%}   
+![](images/Menu.pdf){width=300%}   
 
 # Reception starter 16:00 
 
 # Mad starter 18:30
 
 # Info 
-![](images/Invitation Reception.pdf){width=100%}   
+![](images/Invitation Reception.pdf){width=300%}   
 
 
 Hvis nogen ønsker at holde en tale, eller andet så kontakt Kasper på email:
