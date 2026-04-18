@@ -11,7 +11,7 @@ website:
         href: index.qmd#about
       - text: "Ønskeliste"
         href: index.qmd#mypub
-      - text: "Toast master"
+      - text: "Toastmaster"
         href: index.qmd#contact
 
 format:
